@@ -1,0 +1,16 @@
+id: I4E41C09E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:07:56.880859
+last_modified: 2023-02-09 15:07:56.880963
+source_metadata:
+  title: 'MSV 1,09: Kośāmbakavastu'
+  language: bo
+bases:
+  85D3:
+    base_file: 85D3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
